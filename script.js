@@ -16,3 +16,5 @@ div.innerText='hello'
 
 const one = document.getElementById('one')
 one.innerText=8
+
+console.log('test 2')
